@@ -1,0 +1,1 @@
+/Users/asialalala/.local/pipx/venvs/labelme/bin/labelme
